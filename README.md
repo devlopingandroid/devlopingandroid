@@ -1,108 +1,120 @@
-# Hi, I'm Yash Goel 👋
+# Hi 👋, I'm Yash Goel
 
-🎓 B.Tech Student (2nd Year)  
-💻 Aspiring Software Developer | AI & ML Enthusiast | Problem Solver  
-
-I’m a passionate tech enthusiast exploring the intersection of **Software Development, Machine Learning, and Data Structures & Algorithms**.  
-I enjoy building practical solutions that combine **AI, scalable systems, and real-world impact**.
+💻 AI | Full Stack | DSA
 
 ---
 
-# 🚀 Current Focus
+## 🌟 About Me
 
-• Strengthening **Data Structures & Algorithms**  
-• Building **AI/ML based applications**  
-• Developing **full-stack and mobile applications**  
-• Participating in **hackathons and real-world projects**
+🎓 B.Tech Student (2nd Year) at Vivekananda Institute of Professional Studies, Delhi  
+
+💡 Passionate about building impactful solutions using **AI, Machine Learning, and Software Development**
+
+🧠 Currently improving my **Data Structures & Algorithms** while developing real-world tech projects
+
+🚀 Interested in **AI-powered applications, mobile apps, and computer vision systems**
+
+⚡ "Building technology that solves real-world problems."
 
 ---
 
-# 🧠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 Python • JavaScript • TypeScript • C++
 
-### Frameworks & Libraries
-React • React Native • Node.js • Firebase  
+### ⚙️ Frameworks & Technologies
+React • React Native • Node.js • Firebase
 
-### AI / ML
-Scikit-learn • YOLOv8 • Computer Vision • ML Models  
+### 🤖 AI / ML
+YOLOv8 • Scikit-learn • Computer Vision • Machine Learning
 
-### Tools
-Git • Streamlit • ESP32 • Jupyter Notebook
+### 🧰 Tools
+Git • Jupyter Notebook • Streamlit • ESP32 • VS Code
 
 ---
 
-# 📌 Featured Projects
+## 📱 Featured Projects
 
-## SahayaK-AI
-AI-powered wearable assistant designed for individuals with **Early-to-Mid Stage Alzheimer's and Dementia**.
+### 🧠 SahayaK-AI
+An **AI-powered wearable assistant** designed for individuals with early-to-mid stage **Alzheimer’s and Dementia**.
 
-**Tech Stack:**  
+✨ Features  
+• Memory assistance system  
+• AI-powered reminders  
+• Smart wearable integration  
+
+🛠 Tech Stack  
 TypeScript • Node.js • AI Models
 
-**Impact:**  
-Focuses on memory assistance beyond simple location tracking.
-
 ---
 
-## JanSetu (Civic Sahayog)
+### 🏙️ JanSetu (Civic Sahayog)
 
-A **smart e-governance platform** that allows citizens to report civic issues like potholes or waterlogging directly to authorities.
+A **smart e-governance platform** enabling citizens to report civic issues like potholes and waterlogging directly to authorities.
 
-**Tech Stack:**  
+✨ Features  
+• Real-time issue reporting  
+• Citizen-government communication platform  
+
+🛠 Tech Stack  
 JavaScript • React • Firebase
 
-**Impact:**  
-Improves communication between citizens and urban governance.
-
 ---
 
-## AetherNet
+### 👁️ AetherNet
 
 A **YOLOv8 based object detection system** trained using Falcon synthetic datasets.
 
-**Tech Stack:**  
-Python • YOLOv8 • Jupyter Notebook
+✨ Features  
+• High-performance object detection  
+• Optimized for hackathon environments  
 
-**Highlight:**  
-Optimized for **high-performance detection in hackathon environments**.
+🛠 Tech Stack  
+Python • YOLOv8 • Jupyter Notebook
 
 ---
 
-## Music Streaming App
+### 🎵 Music Streaming App
 
-A **cross-platform mobile music streaming application** with modern UI and seamless user experience.
+A **cross-platform mobile application** that allows users to stream and discover music with a modern UI.
 
-**Tech Stack:**  
+✨ Features  
+• Music search  
+• Playlist support  
+• Seamless UI experience  
+
+🛠 Tech Stack  
 React Native • Firebase
 
 ---
 
-# 🏆 Hackathons & Activities
+## 🏆 Hackathons & Activities
 
-• Active participant in **Web of Innovation Hackathon**  
-• Organizer at **EONICS Tech Society**  
-• Currently working on **AI Vehicle Diagnostics (Pulse Drive)** and **Secure Cantonment System**
+🏅 Active participant in **Web of Innovation Hackathon**
+
+⚡ Organizer at **EONICS Tech Society**
+
+🚀 Currently working on  
+
+• **Pulse Drive** – AI Vehicle Diagnostics System  
+• **Secure Cantonment System**
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlopingandroid&show_icons=true&theme=radical)
 
 ---
 
-# 🔗 Connect With Me
+## 🌐 Connect With Me
 
 LinkedIn  
 https://linkedin.com/in/yash-goel  
 
 Email  
 yashgoel15119@gmail.com  
-
-Portfolio / Resume  
-(Add your resume link here)
 
 ---
 
