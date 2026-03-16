@@ -1,1 +1,109 @@
-Hi, I'm Yash Goel 👋Full-Stack Developer | AI & ML Enthusiast | Problem SolverI am a passionate tech enthusiast currently in my second year of BTech, exploring the intersection of Software Development, Machine Learning, and Data Structures & Algorithms. I love building solutions that bridge the gap between complex technology and citizen-centric services.🚀 Projects & Contributions🧠 Sahayak-AIThe Goal: An AI-powered wearable assistant for individuals with Early-to-Mid Stage Alzheimer’s and Dementia.Tech Stack: TypeScript, Node.js, AI Models.Impact: Focuses on memory assistance beyond simple location tracking.🏛️ JanSetu (Civic Sahyog)The Goal: A smart e-governance platform for reporting civic issues like potholes and waterlogging directly to authorities.Tech Stack: JavaScript, React, Firebase.Impact: Streamlining communication between citizens and urban governance.🎥 AetherNetThe Goal: A YOLOv8-based object detection model trained on the Falcon synthetic dataset.Tech Stack: Python, Jupyter Notebook, YOLOv8.Highlight: Developed specifically for high-performance detection in hackathon environments.🎵 Music Streaming AppThe Goal: A cross-platform mobile application with a seamless UI/UX.Tech Stack: React Native, Firebase.🛠 Tech StackCategoryTools & LanguagesLanguagesPython, JavaScript, C++, TypeScriptFrameworksReact, React Native, Node.js, llmwareAI/MLYOLOv8, Scikit-learn, Quantum ML (Transfer Learning)Tools/DevOpsGit, Firebase, ESP32 (IoT), Streamlit📈 Stats & Activity🔭 Current Project: Refining Pulse Drive (AI Vehicle Diagnostics) and Secure Cantonment System.🏆 Hackathons: Active participant in Web of Innovation and EONICS Society organizer.⚡ Fun Fact: I’m a fan of Harry Potter—I’ve even built presentation decks breaking down the Wizarding World!🔗 Connect With MeLinkedIn: linkedin.com/in/yash-goelcsEmail: yashgoel15119@gmail.comPortfolio: [Link to your resume/site]Suggested Pinned RepositoriesTo make your profile look 10/10 to a recruiter, I recommend pinning these 4:Sahayak-AI (Shows social impact and AI integration)JanSetu (Shows Full-stack capability and real-world utility)AetherNet (Shows Computer Vision/Deep Learning skills)TaskFlow (Shows you understand clean architecture and UI/UX
+# Hi, I'm Yash Goel 👋
+
+🎓 B.Tech Student (2nd Year)  
+💻 Aspiring Software Developer | AI & ML Enthusiast | Problem Solver  
+
+I’m a passionate tech enthusiast exploring the intersection of **Software Development, Machine Learning, and Data Structures & Algorithms**.  
+I enjoy building practical solutions that combine **AI, scalable systems, and real-world impact**.
+
+---
+
+# 🚀 Current Focus
+
+• Strengthening **Data Structures & Algorithms**  
+• Building **AI/ML based applications**  
+• Developing **full-stack and mobile applications**  
+• Participating in **hackathons and real-world projects**
+
+---
+
+# 🧠 Tech Stack
+
+### Languages
+Python • JavaScript • TypeScript • C++
+
+### Frameworks & Libraries
+React • React Native • Node.js • Firebase  
+
+### AI / ML
+Scikit-learn • YOLOv8 • Computer Vision • ML Models  
+
+### Tools
+Git • Streamlit • ESP32 • Jupyter Notebook
+
+---
+
+# 📌 Featured Projects
+
+## SahayaK-AI
+AI-powered wearable assistant designed for individuals with **Early-to-Mid Stage Alzheimer's and Dementia**.
+
+**Tech Stack:**  
+TypeScript • Node.js • AI Models
+
+**Impact:**  
+Focuses on memory assistance beyond simple location tracking.
+
+---
+
+## JanSetu (Civic Sahayog)
+
+A **smart e-governance platform** that allows citizens to report civic issues like potholes or waterlogging directly to authorities.
+
+**Tech Stack:**  
+JavaScript • React • Firebase
+
+**Impact:**  
+Improves communication between citizens and urban governance.
+
+---
+
+## AetherNet
+
+A **YOLOv8 based object detection system** trained using Falcon synthetic datasets.
+
+**Tech Stack:**  
+Python • YOLOv8 • Jupyter Notebook
+
+**Highlight:**  
+Optimized for **high-performance detection in hackathon environments**.
+
+---
+
+## Music Streaming App
+
+A **cross-platform mobile music streaming application** with modern UI and seamless user experience.
+
+**Tech Stack:**  
+React Native • Firebase
+
+---
+
+# 🏆 Hackathons & Activities
+
+• Active participant in **Web of Innovation Hackathon**  
+• Organizer at **EONICS Tech Society**  
+• Currently working on **AI Vehicle Diagnostics (Pulse Drive)** and **Secure Cantonment System**
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlopingandroid&show_icons=true&theme=radical)
+
+---
+
+# 🔗 Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/yash-goel  
+
+Email  
+yashgoel15119@gmail.com  
+
+Portfolio / Resume  
+(Add your resume link here)
+
+---
+
+⭐ Always open to collaboration, learning opportunities, and internships.
