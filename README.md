@@ -2,7 +2,7 @@
 
 B.Tech (IIOT) • VIPS-TC, Delhi (GGSIPU) | 2024–2028
 
-Research Intern @ DRDO SSPL &nbsp;|&nbsp; Former Research Intern @ IIIT Delhi  
+Intern at Infosys Springboard &nbsp;| Research Intern @ DRDO SSPL &nbsp;|&nbsp; Former Research Intern @ IIIT Delhi  
 Google Gemini Student Ambassador 2026 &nbsp;|&nbsp; 3x Patent Author  
 Top 100 — College Youth Ideathon, IIT Delhi (13,000+ teams)
 
