@@ -19,7 +19,7 @@ exploring applied AI, computer vision, and cross-platform development.
 ## Tech Stack
 
 **Languages** &nbsp; Python • JavaScript • TypeScript • C++  
-**Frontend / Mobile** &nbsp; React.js • React Native • Tailwind CSS  
+**Frontend / Mobile** &nbsp; React.js • React Native • Tailwind CSS • Kotlin 
 **Backend** &nbsp; Node.js • Express.js • REST APIs  
 **Database** &nbsp; MongoDB • Firebase  
 **AI / ML** &nbsp; YOLOv8 • Scikit-learn • Computer Vision  
