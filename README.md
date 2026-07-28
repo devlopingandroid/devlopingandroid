@@ -54,7 +54,7 @@ tracking and workflow automation. Built for Aditya Birla Group use case.
 - Top 100 — College Youth Ideathon, IIT Delhi (13,000+ teams)
 - 3rd Place — SIH Internal Hackathon, VIPS New Delhi
 - 3 Published Patents in AI & Intelligent Systems
-
+- Multiverse Hackathon winner @Qualcomm
 ---
 
 ## GitHub Stats
