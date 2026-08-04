@@ -5,7 +5,7 @@ B.Tech (IIOT) • VIPS-TC, Delhi (GGSIPU) | 2024–2028 | 9.37 CGPA
 Intern at Infosys Springboard 7.0 &nbsp;| Research Intern @ DRDO SSPL &nbsp;|&nbsp; Former Research Intern @ IIIT Delhi  
 Google Gemini Student Ambassador 2026 &nbsp;|&nbsp; 3x Patent Author  
 Top 100 — College Youth Ideathon, IIT Delhi (13,000+ teams)
-Multiverse Hackathon Winner @Qualcomm
+Multiverse Hackathon Winner @Qualcomm Snapdragon
 
 ---
 
