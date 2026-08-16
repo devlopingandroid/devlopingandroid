@@ -6,13 +6,13 @@ Intern at Infosys Springboard 7.0 &nbsp;| Intern @ DRDO SSPL &nbsp;|&nbsp; Forme
 Google Gemini Student Ambassador 2026 &nbsp;|&nbsp; 3x Patent Author  
 Top 100 — College Youth Ideathon, IIT Delhi (13,000+ teams)
 
-Multiverse Hackathon Winner @Qualcomm Snapdragon
+Multiverse Hackathon Winner @Qualcomm Snapdragon 
 
 ---
 
 ## About
 
-I build full-stack web, mobile, and AI-powered applications.  
+I build full-stack web Application , mobile Application , and AI-powered applications.  
 Currently contributing to defense research software at DRDO SSPL and 
 exploring applied AI, computer vision, and cross-platform development.
 
