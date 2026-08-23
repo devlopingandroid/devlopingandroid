@@ -1,6 +1,6 @@
 # Yash Goel
 
-B.Tech  • VIPS-TC, Delhi (GGSIPU) | 2024–2028 | 9.37 CGPA
+B.Tech  • VIPS-TC, Delhi | 2024–2028 | 9.37 CGPA
 
 Intern at Infosys Springboard 7.0 &nbsp;| Intern @ DRDO SSPL &nbsp;|&nbsp; Former Research Intern @ IIIT Delhi  
 Google Gemini Student Ambassador 2026 &nbsp;|&nbsp; 3x Patent Author  
