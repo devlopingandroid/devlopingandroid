@@ -12,7 +12,7 @@ Multiverse Hackathon Winner @Qualcomm Snapdragon
 
 ## About
 
-I build full-stack web Application , mobile Application , and AI-powered applications.  
+I build full-stack web Application , mobile Application , and AI-powered application.  
 Currently contributing to defense research software at DRDO SSPL and 
 exploring applied AI, computer vision, and cross-platform development.
 
