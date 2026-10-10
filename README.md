@@ -5,6 +5,7 @@ B.Tech(CSE)  • VIPS-TC, Delhi | 2024–2028 | 9.22 CGPA
 Intern at Infosys Springboard 7.0 &nbsp;| Intern @ DRDO SSPL &nbsp;|&nbsp; Former Research Intern @ IIIT Delhi  
 Google Gemini Student Ambassador 2026 &nbsp;|&nbsp; 3x Patent Author  
 Top 100 — College Youth Ideathon, IIT Delhi (13,000+ teams)
+https://devlopingandroid.github.io/Yash/
 
 Multiverse Hackathon Winner @Qualcomm Snapdragon 
 
